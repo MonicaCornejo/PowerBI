@@ -2,7 +2,7 @@
 
 In this file you wil find a dashboard I created from scratch with dummy data, representing important KPIs and metrics for a Non-profit organization. 
 
-The First Gift VS Last Gift dashboard tracks:
+## The First Gift VS Last Gift dashboard tracks:
 - Last donation ammount by donor, categorized by Tier.
 - Increments/decrements per consecutive years of giving. (This metric will help know donors better, ask them the reason for the change, and create new strategies for them and future donors.)
 - Total ammount donated by month. (This will help identify what campaigns helped to raise more funds).
@@ -15,7 +15,7 @@ The First Gift VS Last Gift dashboard tracks:
 
 
 
-The 2019 Dashboard tracks:
+## The 2019 Dashboard tracks:
 - Total donation ammounts in 2019.
 - Donation ammount by donor, categorized by Tier.
 - New donors, categorized by Tier in a donut chart.
