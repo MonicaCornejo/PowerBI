@@ -11,6 +11,7 @@ In this file you wil find a dashboard I created from scratch with dummy data, re
 - Donation ammount by year.
 
 
+
 ![image](https://user-images.githubusercontent.com/84350992/125730507-d1ac1dd2-66a6-4286-bc9f-60c3b8f481ec.png)
 
 
